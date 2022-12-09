@@ -1,0 +1,15 @@
+/Users/benz.so_good/Desktop/MDT210/bin/Debug/net6.0/MDT210
+/Users/benz.so_good/Desktop/MDT210/bin/Debug/net6.0/MDT210.deps.json
+/Users/benz.so_good/Desktop/MDT210/bin/Debug/net6.0/MDT210.runtimeconfig.json
+/Users/benz.so_good/Desktop/MDT210/bin/Debug/net6.0/MDT210.dll
+/Users/benz.so_good/Desktop/MDT210/bin/Debug/net6.0/MDT210.pdb
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/MDT210.csproj.AssemblyReference.cache
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/MDT210.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/MDT210.AssemblyInfoInputs.cache
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/MDT210.AssemblyInfo.cs
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/MDT210.csproj.CoreCompileInputs.cache
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/MDT210.dll
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/refint/MDT210.dll
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/MDT210.pdb
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/MDT210.genruntimeconfig.cache
+/Users/benz.so_good/Desktop/MDT210/obj/Debug/net6.0/ref/MDT210.dll
